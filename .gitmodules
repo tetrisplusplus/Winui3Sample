@@ -1,0 +1,4 @@
+[submodule "DiligentCore"]
+	path = DiligentCore
+	url = ../DiligentCore.git
+	branch = winui3_swapchainpanel
